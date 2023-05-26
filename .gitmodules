@@ -1,0 +1,3 @@
+[submodule "Yolov5-distillation-train-inference"]
+	path = Yolov5-distillation-train-inference
+	url = https://github.com/Sharpiless/Yolov5-distillation-train-inference
